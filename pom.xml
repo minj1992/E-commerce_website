@@ -19,11 +19,8 @@
     <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-core</artifactId>
-    <version>5.4.2.Final</version>
-      <properties>
-    <maven.compiler.source>14</maven.compiler.source>
-    <maven.compiler.target>14</maven.compiler.target>
-</properties>
+    <version>6.1</version>
+
 </dependency>
   
   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
