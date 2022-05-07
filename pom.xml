@@ -8,19 +8,17 @@
   <name>mycart Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-    
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>5.4.2</version>
+      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
 
     <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-core</artifactId>
-    <version>6.1</version>
-
+    <version>5.4.2.Final</version>
 </dependency>
   
   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
